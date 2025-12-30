@@ -7,6 +7,7 @@ Tenho experiência acadêmica e prática com projetos em:
 - Java (Spring Boot)
 - Python
 - C#
+- Breve conhecimento em JS
 ---
 
 ## Tecnologias e Ferramentas
