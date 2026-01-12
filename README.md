@@ -1,12 +1,11 @@
 ## Bem-vindo(a) ao meu perfil!
 
-🎓 Estudante de **Sistemas de Informação**, com interesse em **desenvolvimento backend** e **tecnologia**.  
+  Estudante de **Sistemas de Informação**, com interesse em **desenvolvimento backend** e **tecnologia**.  
 Atualmente focado em aprender boas práticas de programação, APIs REST e lógica de programação.
 
 Tenho experiência acadêmica e prática com projetos em:
 - Java (Spring Boot)
 - Python
-- C#
 - Breve conhecimento em JS
 ---
 
