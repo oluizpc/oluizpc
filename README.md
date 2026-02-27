@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao meu perfil!
+# Bem-vindo(a) ao meu perfil!
+### Somos o que fazemos repetidamente. Excelência não é um ato, é um hábito
 
   Estudante de **Sistemas de Informação**, com interesse em **desenvolvimento backend** e **tecnologia**.  
 Atualmente focado em aprender boas práticas de programação, APIs REST e lógica de programação.
